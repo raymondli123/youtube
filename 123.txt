@@ -8,3 +8,5 @@
 ##.video-ads
 youtube.com##.ytp-paid-content-overlay
 youtube.com##YTM-PROMOTED-VIDEO-RENDERER
+/securepubads.
+youtube.com##YTM-PROMOTED-VIDEO-RENDERER
