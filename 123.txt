@@ -9,4 +9,4 @@
 youtube.com##.ytp-paid-content-overlay
 youtube.com##YTM-PROMOTED-VIDEO-RENDERER
 /securepubads.
-youtube.com##YTM-PROMOTED-VIDEO-RENDERER
+https://m.youtube.com/csi_204?v=2&s=youtube_mobile&action=home&yt_sts=n&st=849&vpni=2&vpil=2&yt_lt=cold&is_nav=1&csn=LcGVXIfmEY3bNvfclNAE&p=h2&t=quic&yt_vis=1&rc=&pis=d&yt_fn=what_to_watch&GetBrowse_rid=0xc2c531a5d0c49cb6&c=MWEB&cver=2.20190321&yt_li=1&h2pc=0&rt=ai.627,apr.649,srt.180,fpt.536,nreqs.78,nress.180,nrese.1000,ntcps.8,ntcpe.113,nstcps.8,wffs.734,wffe.790,rsf_mcj.236,rse_mcj.342,pdr.1023,ips.1038,ipc.1138,cpt.1138,vpl.1383,aft.1138,ps.1565
