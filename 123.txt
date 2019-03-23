@@ -13,3 +13,4 @@ youtube.com##YTM-PROMOTED-VIDEO-RENDERER
 @@||fonts.gstatic.com^
 /googleads.$domain=~googleads.blog|~googleads.media
 *.sn-*.googlevideo.com
+*.*.googlevideo.com
