@@ -12,3 +12,4 @@ youtube.com##.ytp-paid-content-overlay
 youtube.com##YTM-PROMOTED-VIDEO-RENDERER
 @@||fonts.gstatic.com^
 /googleads.$domain=~googleads.blog|~googleads.media
+*---s-*-googlevideo.com
