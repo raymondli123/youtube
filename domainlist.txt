@@ -8880,3 +8880,14 @@
  0.0.0.0 r6.sn-vgqskn7z.googlevideo.com
  0.0.0.0 r18---sn-o097znes.googlevideo.com
  0.0.0.0 r4---sn-n4v7sn7s.googlevideo.com
+0.0.0.0. growth-pa.googleapis.com    
+0.0.0.0. securepubads.g.doubleclick.net
+0.0.0.0. www.googleadservices.com
+0.0.0.0. googleads.g.doubleclick.net
+0.0.0.0. yt3.ggpht.com
+0.0.0.0. www.googleapis.com
+0.0.0.0. lh3.googleusercontent.com
+0.0.0.0. p19-buy.itunes.apple.com
+0.0.0.0. people-pa.googleapis.com
+0.0.0.0. api.apps.apple.com
+0.0.0.0. redirector.googlevideo.com
